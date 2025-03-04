@@ -1,0 +1,67 @@
+{
+    "files": [{
+            "path": "./dist/css/Admin.css",
+            "maxSize": "128.3 kB"
+        },
+        {
+            "path": "./dist/css/Admin.min.css",
+            "maxSize": "121.5 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.components.css",
+            "maxSize": "28.6 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.components.min.css",
+            "maxSize": "27.8 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.core.css",
+            "maxSize": "72.2 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.core.min.css",
+            "maxSize": "69.4 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.extra-components.css",
+            "maxSize": "4.6 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.extra-components.min.css",
+            "maxSize": "4.5 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.light.css",
+            "maxSize": "94 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.light.min.css",
+            "maxSize": "89 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.pages.css",
+            "maxSize": "3.5 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.pages.min.css",
+            "maxSize": "3.1 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.plugins.css",
+            "maxSize": "22.2 kB"
+        },
+        {
+            "path": "./dist/css/alt/Admin.plugins.min.css",
+            "maxSize": "21.5 kB"
+        },
+        {
+            "path": "./dist/js/Admin.js",
+            "maxSize": "16.4 kB"
+        },
+        {
+            "path": "./dist/js/Admin.min.js",
+            "maxSize": "10.9 kB"
+        }
+    ]
+}

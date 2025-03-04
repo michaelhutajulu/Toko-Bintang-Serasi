@@ -1,0 +1,5 @@
+**/*.min.js
+**/plugins/
+/dist/js/Admin.js
+/docs/
+/docs_html/

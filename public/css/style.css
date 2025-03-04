@@ -1,0 +1,146 @@
+body {
+    background-image: url('../images/bg_all.jpg');
+}
+
+.nama {
+    font-family: 'mulisemibold';
+    font-size: 23px;
+    color: white;
+    margin-left: 20px;
+}
+
+.motto {
+    font-family: 'mulilight';
+    font-size: 15px;
+    color: white;
+    margin-left: 20px;
+}
+
+.nav-orange {
+    background-color: red;
+    height: 100px;
+}
+
+.navlink {
+    border-bottom: 1px solid black;
+    transition: .35s;
+    margin-right: 30px;
+    font-size: 20px;
+    align-content: center;
+    align-items: center;
+}
+
+.navlink:active {
+    border-bottom: 3px solid #fff;
+}
+
+.navlink:hover {
+    border-bottom: 2px solid #fff;
+}
+
+.hero img {
+    width: 100%;
+}
+
+span.tgl {
+    font-size: 12px;
+    font-family: 'mulilight';
+    color: #888;
+    display: block;
+}
+
+span.judul a {
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'mulisemibold';
+    color: #ED8240;
+    display: inline-block;
+    transition: .35s;
+}
+
+span.judul a:hover {
+    background-color: #ED8240;
+    color: white;
+}
+
+.footer {
+    background-color: red;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+
+.logo {
+    border-radius: 50%;
+}
+
+.fh5co-heading h2:after {
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    right: 0;
+    width: 700px;
+    height: 3px;
+    margin: 0 auto;
+    background: red;
+    content: "";
+}
+
+.medsos {
+    margin-top: 10px;
+    align-items: center;
+}
+
+.medsos i {
+    display: inline-flex;
+    width: 60px;
+    height: 60px;
+    color: white;
+    border-radius: 50px;
+    border: 3.5px solid white;
+    margin-right: 35px;
+    box-shadow: 0 0 50px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.medsos i:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 50px black;
+    border: 3.5px solid black;
+}
+
+.main-footer .footer-bottom .box_sosial_media .icon-sosmed li {
+    display: inline-block;
+}
+
+.main-footer .footer-bottom .box_sosial_media .icon-sosmed li {
+    background: #fff;
+    display: inline-block;
+    width: 35px;
+    line-height: 35px;
+    color: #F75E1D;
+    border-radius: 100%;
+    text-align: center;
+}
+
+.footer-bottom .box_sosial_media .icon-sosmed li:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color: #30393A;
+}
+
+.fa-user {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-right: 40px;
+    margin-left: 30px;
+    /* Ubah ukuran ikon sesuai kebutuhan */
+}
+
+.icon-arrow-up:before {
+    content: "\e096";
+}
+
+th {
+    position: fixed;
+}

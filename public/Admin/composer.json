@@ -1,0 +1,23 @@
+{
+    "name": "almasaeed2010/Admin",
+    "description": "Admin - Admin control panel and dashboard that's based on Bootstrap 4",
+    "homepage": "https://Admin.io/",
+    "keywords": [
+        "css",
+        "js",
+        "less",
+        "responsive",
+        "back-end",
+        "template",
+        "theme",
+        "web",
+        "Admin"
+    ],
+    "authors": [{
+        "name": "Colorlib"
+    }],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/ColorlibHQ/Admin/issues"
+    }
+}
